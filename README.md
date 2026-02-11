@@ -1,3 +1,5 @@
+<img src="profile_pic.jpg" width="150" style="border-radius:50%">
+
 
 # Sagar Jain
 ### Aspiring Data Analyst | Data Scientist  
