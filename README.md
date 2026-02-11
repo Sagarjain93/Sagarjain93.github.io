@@ -24,6 +24,12 @@ To work as a Data Analyst / Data Scientist and help organizations make smarter d
 
 
 ---
+## Resume
+<a href="Sagar_Jain_Aspiring_Data_Scientist.pdf" download>
+  <button>Download Resume</button>
+</a>
+
+---
 
 ## My Journey
 
