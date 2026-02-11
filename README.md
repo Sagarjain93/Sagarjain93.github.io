@@ -1,4 +1,4 @@
-<img src="profile_pic.jpg" width="150" style="border-radius:50%">
+<img src="profile_pic.png" width="150" style="border-radius:50%">
 
 
 # Sagar Jain
@@ -232,5 +232,5 @@ Gyan Ganga Institute of Engineering | CGPA: 8.31 | 2011 – 2015
 ---
 
 ## Contact
-Email: your_email@gmail.com  
+Email: sagarjain93@gmail.com  
 GitHub: https://github.com/Sagarjain93
