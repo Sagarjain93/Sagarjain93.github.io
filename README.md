@@ -1,9 +1,27 @@
 
 # Sagar Jain
-## Aspiring Data Analyst | Data Science Learner
+### Aspiring Data Analyst | Data Scientist  
+**Business Operations | Analytics | Machine Learning**
 
-Transitioning from a business background to Data Analytics and Data Science.  
-Building hands-on projects using Python, SQL, Machine Learning, and Data Visualization.
+Transforming 10+ years of business and entrepreneurial experience into data-driven decision making.
+
+I am currently pursuing Data Science with hands-on experience in Python, SQL, Machine Learning, and Data Visualization. My work focuses on solving real-world business problems through Exploratory Data Analysis, predictive modeling, and interactive dashboards.
+
+I bring a unique combination of:
+- Business understanding and operational experience
+- Strong analytical and problem-solving skills
+- Practical experience with real-world data projects
+
+**Career Goal:**  
+To work as a Data Analyst / Data Scientist and help organizations make smarter decisions using data.
+
+---
+
+📍 Jabalpur, India  
+📧 sagarjain93@gmail.com  
+🔗 GitHub: https://github.com/Sagarjain93  
+🔗 LinkedIn: www.linkedin.com/in/sagar-jain-558172162
+
 
 ---
 
@@ -115,39 +133,93 @@ To leverage my entrepreneurial and business experience along with data analytics
 **Libraries**
 - Pandas
 - NumPy
+- Scikit-learn
 - Matplotlib
 - Seaborn
-- Scikit-learn
 
-**Tools**
-- Excel
+**Data Analysis & Machine Learning**
+- Exploratory Data Analysis (EDA)
+- Regression & Classification
+- Feature Engineering
+- Model Evaluation
+- Cross-Validation
+- Hyperparameter Tuning
+
+**Databases & Tools**
+- PostgreSQL
 - Power BI
-- GitHub
+- Excel
+- Git & GitHub
+- Jupyter Notebook
+
+**Statistics**
+- Probability
+- Hypothesis Testing
+- Statistical Distributions
+
 
 ---
 
 ## Projects
 
-- Customer Churn Prediction
-- Google Play Store EDA
-- Healthcare Data Analysis
-- House Price Prediction
-- SQL Data Analysis
 
-(Project details and visuals will be added)
+### House Price Prediction (Machine Learning)
+- Built an end-to-end machine learning pipeline for predicting house prices.
+- Performed data preprocessing, feature engineering, and multicollinearity reduction.
+- Applied Random Forest with hyperparameter tuning (GridSearchCV).
+- Identified key factors influencing property prices.
+**Tools:** Python, Pandas, NumPy, Scikit-learn  
+GitHub: [https://github.com/Sagarjain93](https://github.com/Sagarjain93/Machine-Learning-Portfolio/tree/main/03_ML_Practice/Mumbai-Rent-Prediction)
+
+### Student Placement Analysis
+- Analyzed 5,000+ student records using PostgreSQL and Python.
+- Performed data cleaning, validation, and outlier handling.
+- Conducted EDA across academics, internships, and skills.
+- Identified practical experience as the strongest predictor of placement.
+**Tools:** PostgreSQL, SQL, Python, Pandas, Matplotlib, Seaborn  
+GitHub: [https://github.com/Sagarjain93](https://github.com/Sagarjain93/Data-Analytics-Portfolio/tree/main/SQL%20-%20EDA/%20indian-engineering-student-placement)
+
+### Amazon Prime Content Analysis Dashboard
+- Built a multi-page interactive Power BI dashboard.
+- Created KPIs, Top-N analysis, and trend insights using DAX.
+- Delivered insights on content distribution, ratings, and popularity trends.
+**Tools:** Power BI, Data Modeling, DAX, Power Query  
+GitHub: [https://github.com/Sagarjain93](https://github.com/Sagarjain93/Data-Analytics-Portfolio/tree/main/PowerBI-Dashboards/Amazon_Prime_Dashboard_BI)
+
+### Sales Analysis – Excel Dashboard
+- Performed end-to-end analysis of transactional sales data.
+- Created KPIs: Total Revenue, Orders, and Average Order Value.
+- Used Pivot Tables to analyze product and time-based trends.
+- Designed an executive dashboard for business insights.
+**Tools:** Excel, Pivot Tables, Charts  
+GitHub: [https://github.com/Sagarjain93](https://github.com/Sagarjain93/Data-Analytics-Portfolio/tree/main/Excel-EDA/balaji_fast_food)
+
+### Google Play Store Analysis
+- Cleaned and processed app data using Pandas and NumPy.
+- Performed EDA on ratings, installs, pricing models, and categories.
+- Created visualizations to identify factors affecting app success.
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn.
+GitHub:  [https://github.com/Sagarjain93](https://github.com/Sagarjain93/Data-Analytics-Portfolio/tree/main/Python-EDA/Google_Play_Store_EDA)
+
+
 
 ---
-
 ## Education
-Bachelor of Commerce (B.Com)
+
+**Master’s in Computer Science – Artificial Intelligence & Machine Learning**  
+AlmaBetter (Online) | 2025 – Present
+
+**Bachelor of Mechanical Engineering**  
+Gyan Ganga Institute of Engineering | CGPA: 8.31 | 2011 – 2015
+
 
 ---
+
 
 ## Certifications
-- Python for Data Science
-- SQL for Data Analysis
-- Machine Learning
-- Data Analytics Courses
+
+- Hydroponics Masterclass 2.0 – Kryzen Biotech Pvt. Ltd. (2025)
+- Elite Trader – Technical Analysis Program, Booming Bulls Academy (2021)
 
 ---
 
